@@ -13,7 +13,10 @@ Please add your name and GitHub handle
 ## Agenda 
 
 # Introduction
-- OceanGliders Best Practice effort
+- everyone 1 min self introduction, what you are working on at the moment
+
+# OceanGliders Best Practice effort
+- outline of ongoing activities
 - Why GitHub?
 - effective, inclusive and sustainable assyncronous working mode
 
