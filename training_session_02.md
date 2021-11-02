@@ -2,7 +2,7 @@
 
 ## Date: November 3 2021
 
-## Time: 9:00 CEST
+## Time: 9:00 - 9:45 CEST
 
 ## Trainer
 Soeren Thomesn (@soerenthomsen)
