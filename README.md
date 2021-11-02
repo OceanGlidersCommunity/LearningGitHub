@@ -1,3 +1,3 @@
 A sandbox (training area) to practice using GitHub
 
-Please feel free to test and try here or in the [testfile](https://github.com/OceanGlidersCommunity/LearningGitHub/blob/main/test.md).
+Our next training is on Wednesday Nov. 3 2021 at 9:00 CEST. 
