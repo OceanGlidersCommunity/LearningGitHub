@@ -12,4 +12,14 @@ Please add your name and GitHub handle
 
 ## Agenda 
 
+# Introduction (Soeren)
+- OceanGliders Best Practice effort
+- effective, inclusive and sustainable assyncronous working mode on GitHub
+
+# Basic training
+- issues
+- pull-requests
+- review
+- ...
+
 
