@@ -1,5 +1,15 @@
 # OceanGliders GitHub Session 2.0
 
-Date: 
-Time:
-Participants:
+## Date: November 3 2021
+
+## Time: 9:00 CEST
+
+## Trainer
+Soeren Thomesn (@soerenthomsen)
+
+## Participants 
+Please add your name and GitHub handle
+
+## Agenda 
+
+
