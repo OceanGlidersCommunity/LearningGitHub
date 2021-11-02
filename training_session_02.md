@@ -12,9 +12,10 @@ Please add your name and GitHub handle
 
 ## Agenda 
 
-# Introduction (Soeren)
+# Introduction
 - OceanGliders Best Practice effort
-- effective, inclusive and sustainable assyncronous working mode on GitHub
+- Why GitHub?
+- effective, inclusive and sustainable assyncronous working mode
 
 # Basic training
 - issues
