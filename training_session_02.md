@@ -9,6 +9,11 @@ Soeren Thomsen (@soerenthomsen)
 
 ## Participants 
 Please add your name and GitHub handle
+- Hannah Joy-Warren
+- Jasmin McInerney
+- Chiara Monforte
+- Estel Font
+- Johan Edholm
 
 ## Agenda 
 
