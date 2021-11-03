@@ -11,7 +11,7 @@ Soeren Thomsen (@soerenthomsen)
 Please add your name and GitHub handle
 - Hannah Joy-Warren
 - Jasmin McInerney
-- Chiara Monforte
+- Chiara Monforte (@MOchiara)
 - Estel Font
 - Johan Edholm
 
