@@ -12,7 +12,7 @@ Please add your name and GitHub handle
 - Hannah Joy-Warren (@hljw)
 - Jasmin McInerney (@JasminMcIn)
 - Chiara Monforte (@MOchiara)
-- Estel Font 
+- Estel Font (@EstelFont)
 - Johan Edholm (@jmedholm)
 
 ## Agenda 
