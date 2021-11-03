@@ -13,7 +13,7 @@ Please add your name and GitHub handle
 - Jasmin McInerney
 - Chiara Monforte
 - Estel Font
-- Johan Edholm
+- Johan Edholm (@jmedholm)
 
 ## Agenda 
 
