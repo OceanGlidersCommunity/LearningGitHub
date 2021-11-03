@@ -29,6 +29,6 @@ Please add your name and GitHub handle
 - Issues
 - Pull-requests
 - Review
-- ...
+- Review with suggestions 
 
 
