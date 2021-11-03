@@ -10,25 +10,25 @@ Soeren Thomsen (@soerenthomsen)
 ## Participants 
 Please add your name and GitHub handle
 - Hannah Joy-Warren (@hljw)
-- Jasmin McInerney
+- Jasmin McInerney (@JasminMcIn)
 - Chiara Monforte (@MOchiara)
-- Estel Font
+- Estel Font 
 - Johan Edholm (@jmedholm)
 
 ## Agenda 
 
 # Introduction
-- everyone 1 min self introduction, what you are working on at the moment
+- Everyone 1 min self introduction, what you are working on at the moment
 
 # OceanGliders Best Practice effort
-- outline of ongoing activities
+- Outline of ongoing activities
 - Why GitHub?
-- effective, inclusive and sustainable assyncronous working mode
+- Effective, inclusive and sustainable assyncronous working mode
 
 # Basic training
-- issues
-- pull-requests
-- review
-- ...
+- Issues
+- Pull-requests
+- Review
+- Review with suggestions 
 
 
