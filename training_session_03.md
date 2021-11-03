@@ -13,6 +13,7 @@ Please add your name and GitHub handle
 
 # Introduction
 - Everyone 1 min self introduction, what you are working on at the moment
+- Show us a plot of your data
 
 # OceanGliders Best Practice effort
 - Outline of ongoing activities
