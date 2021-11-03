@@ -9,7 +9,7 @@ Soeren Thomsen (@soerenthomsen)
 
 ## Participants 
 Please add your name and GitHub handle
-- Hannah Joy-Warren
+- Hannah Joy-Warren (@hljw)
 - Jasmin McInerney
 - Chiara Monforte (@MOchiara)
 - Estel Font
