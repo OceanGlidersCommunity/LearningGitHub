@@ -6,7 +6,7 @@ Soeren Thomsen (@soerenthomsen)
 
 ## Participants 
 Please add your name and GitHub handle
-
+Juliane Wihsgott (@juliane-w)
 
 ## Agenda 
 
