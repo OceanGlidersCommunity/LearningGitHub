@@ -5,7 +5,7 @@
 ## Time: 9:00 - 9:45 CEST
 
 ## Trainer
-Soeren Thomesn (@soerenthomsen)
+Soeren Thomsen (@soerenthomsen)
 
 ## Participants 
 Please add your name and GitHub handle
