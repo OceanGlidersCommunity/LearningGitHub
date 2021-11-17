@@ -7,5 +7,5 @@ Date: 17/11/2021
 - [Filipa Carvalho](https://github.com/pipa85)
 
 ## Agenda:
-1. intro
+1. Intro
 2. 
