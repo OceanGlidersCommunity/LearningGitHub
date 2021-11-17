@@ -1,5 +1,5 @@
 # Training session
 
 Participations: 
-- Soeren Thomsen
+- [Soeren Thomsen](https://github.com/soerenthomsen)
 - Filipa Carvalho
