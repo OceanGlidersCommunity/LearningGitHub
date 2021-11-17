@@ -1,4 +1,4 @@
 # Training session
 
-Participations: 
+Participants: 
 - Soeren Thomsen
