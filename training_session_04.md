@@ -2,3 +2,4 @@
 
 Participations: 
 - Soeren Thomsen
+- Filipa Carvalho
