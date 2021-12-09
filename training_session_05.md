@@ -3,7 +3,7 @@
 Date: 09/12/2021, 9:20 CET
 
 ## Participations: 
-- [XXXX](https://github.com/XXXX)
+- [Soeren Thomsen](https://github.com/soerenthomsen)
 - [XXXX](https://github.com/XXX)
 
 ## Agenda:
