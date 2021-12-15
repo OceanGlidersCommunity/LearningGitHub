@@ -11,6 +11,7 @@ Gui
 ## Participants 
 - Alice Pietri 
 - Anthony Bosse
+- Matthew Patey
 
 ## Agenda 
 
