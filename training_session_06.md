@@ -4,7 +4,7 @@ Date: 13/04/2022, 15:00 CET
 
 ## Participations: 
 - [Soeren Thomsen](https://github.com/soerenthomsen)
-- Tamaryn Morris
+- [Tamaryn Morris](https://github.com/DrTam)
 
 
 ## Agenda:
