@@ -12,6 +12,7 @@ Date: 20/06/2022, 16:00 CEST
 - [Victor Turpin](https://github.com/vturpin)
 - [Corentin Guyot](https://github.com/corentingu)
 - [Justin Buck](https://github.com/justinbuck)
+- [Fiona Elliott](https://github.com/elyfant)
 
 - [First Name Last Name](github link)
 
