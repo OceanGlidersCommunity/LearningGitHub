@@ -6,6 +6,7 @@ Date: 20/06/2022, afternoon CEST
 - [Soeren Thomsen](https://github.com/soerenthomsen)
 - [Joan Mateu Horrach Pou](https://github.com/JoMaHoPo)
 - [Antonio Bussani](https://github.com/abussani)
+- [Clara Loureiro](https://github.com/cangelaml)
 - [First Name Last Name](github link)
 
 ## Agenda:
