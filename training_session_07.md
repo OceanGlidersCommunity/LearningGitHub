@@ -11,6 +11,7 @@ Date: 20/06/2022, 16:00 CEST
 - [Matteo Marasco](https://github.com/MatteoMarasco)
 - [Victor Turpin](https://github.com/vturpin)
 - [Corentin Guyot](https://github.com/corentingu)
+- [Justin Buck](https://github.com/justinbuckabcd)
 
 - [First Name Last Name](github link)
 
