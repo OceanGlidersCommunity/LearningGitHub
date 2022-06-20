@@ -8,6 +8,7 @@ Date: 20/06/2022, 16:00 CEST
 - [Antonio Bussani](https://github.com/abussani)
 - [Callum Rollo](https://github.com/callumrollo)
 - [Pierre Testor](https://github.com/ptestor)
+- [Clara M. Loureiro](https://github.com/cangelaml)
 - [First Name Last Name](github link)
 
 ## Agenda:
