@@ -1,6 +1,6 @@
 # Training session
 
-Date: 20/06/2022, afternoon CEST
+Date: 20/06/2022, 16:00 CEST
 
 ## Participations: 
 - [Soeren Thomsen](https://github.com/soerenthomsen)
