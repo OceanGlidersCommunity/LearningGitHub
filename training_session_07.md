@@ -4,7 +4,7 @@ Date: 20/06/2022, afternoon CEST
 
 ## Participations: 
 - [Soeren Thomsen](https://github.com/soerenthomsen)
-- [Joan Mateu Horrach Pou]([github link](https://github.com/JoMaHoPo))
+- [Name](github link)
 
 
 ## Agenda:
