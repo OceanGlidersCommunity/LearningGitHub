@@ -5,6 +5,7 @@ Date: 17/11/2021, 16:00 CET
 ## Participations: 
 - [Soeren Thomsen](https://github.com/soerenthomsen)
 - [Filipa Carvalho](https://github.com/pipa85)
+- [Fiona Elliott](https://github.com/elyfant)
 
 ## Agenda:
 1. Issues
