@@ -15,8 +15,9 @@ Date: 20/06/2022, 16:00 CEST
 - [Fiona Elliott](https://github.com/elyfant)
 - [Kimmo Tikka](https://github.com/kimmotikka)
 - [Ailin Brakstad](https://github.com/abr099)
+- [Clara M. Loureiro](http://github.com/cangelaml)
 - [Anthony Bosse](https://github.com/AnthonyBosse)
-- 
+
 - [First Name Last Name](github link)
 
 ## Agenda:
