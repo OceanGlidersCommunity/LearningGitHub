@@ -14,6 +14,7 @@ Date: 20/06/2022, 16:00 CEST
 - [Justin Buck](https://github.com/justinbuck)
 - [Fiona Elliott](https://github.com/elyfant)
 - [Ailin Brakstad](https://github.com/abr099)
+- [Kimmo Tikka](https://github.com/kimmotikkka)
 - [First Name Last Name](github link)
 
 ## Agenda:
