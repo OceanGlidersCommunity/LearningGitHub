@@ -7,6 +7,7 @@ Date: 20/06/2022, afternoon CEST
 - [Joan Mateu Horrach Pou](https://github.com/JoMaHoPo)
 - [Antonio Bussani](https://github.com/abussani)
 - [Callum Rollo](https://github.com/callumrollo)
+- [Pierre Testor](https://github.com/ptestor)
 - [First Name Last Name](github link)
 
 ## Agenda:
