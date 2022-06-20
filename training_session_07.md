@@ -6,7 +6,7 @@ Date: 20/06/2022, afternoon CEST
 - [Soeren Thomsen](https://github.com/soerenthomsen)
 - [Joan Mateu Horrach Pou](https://github.com/JoMaHoPo)
 - [Antonio Bussani](https://github.com/abussani)
-- [Pierre Testor] (https://github.com/ptestor)
+- [Pierre Testor](https://github.com/ptestor)
 - [First Name Last Name](github link)
 
 ## Agenda:
