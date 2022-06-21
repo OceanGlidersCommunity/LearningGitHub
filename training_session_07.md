@@ -18,7 +18,7 @@ Date: 20/06/2022, 16:00 CEST
 - [Clara M. Loureiro](http://github.com/cangelaml)
 - [Anthony Bosse](https://github.com/AnthonyBosse)
 - [Angel Ruiz-Angulo](https://github.com/angelitora)
-
+- [Maryam Hassani](https://github.com/hassanimaryam)
 
 - [First Name Last Name](github link)
 
