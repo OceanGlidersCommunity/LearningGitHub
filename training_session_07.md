@@ -17,6 +17,8 @@ Date: 20/06/2022, 16:00 CEST
 - [Ailin Brakstad](https://github.com/abr099)
 - [Clara M. Loureiro](http://github.com/cangelaml)
 - [Anthony Bosse](https://github.com/AnthonyBosse)
+- [Angel Ruiz-Angulo](https://github.com/angelitora)
+
 
 - [First Name Last Name](github link)
 
