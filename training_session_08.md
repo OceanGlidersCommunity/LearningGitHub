@@ -1,9 +1,11 @@
 # Training session
 
-Date: 21/06/2022
+Date: XX/XX/2022
+
+## Trainer
+[Callum Rollo](https://github.com/callumrollo)
 
 ## Participations: 
-- [Soeren Thomsen](https://github.com/soerenthomsen)
 - [First Name Last Name](github link)
 
 ## Agenda:
