@@ -7,6 +7,7 @@ Date: 04/07/2022
 
 ## Participations: 
 - [Tommy Ryan-Keogh](https://github.com/tjryankeogh)
+- [Catherine Schmechtig](https://github.com/catsch)
 
 ## Agenda:
 1. OceanGliders GitHub Community
