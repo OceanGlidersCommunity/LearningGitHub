@@ -1,6 +1,6 @@
 # Training session
 
-Date: XX/XX/2022
+Date: 04/07/2022
 
 ## Trainer
 [Callum Rollo](https://github.com/callumrollo)
