@@ -6,7 +6,7 @@ Date: 04/07/2022
 [Callum Rollo](https://github.com/callumrollo)
 
 ## Participations: 
-- [First Name Last Name](github link)
+- [Tommy Ryan-Keogh](https://github.com/tjryankeogh)
 
 ## Agenda:
 1. OceanGliders GitHub Community
